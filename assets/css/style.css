@@ -8,15 +8,15 @@ th, td{
     padding: 1.3em;
 }
 thead{
-    color: #ffffff;
-    font-size: x-large;
     line-height: 20%;
+    font-size: x-large;
+    color: #ffffff;
 }
 thead>tr>th:first-child{
-    border-radius: 15px 0 0 0;
-    background-color: #7987ac;
     width: 20%;
+    border-radius: 15px 0 0 0;
     font-size: medium;   
+    background-color: #7987ac;
 }
 thead>tr>th>h2:not(:first-child){
     font-size: 200%;
